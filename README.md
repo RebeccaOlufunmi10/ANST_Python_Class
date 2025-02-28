@@ -1,5 +1,3 @@
-
-
 ### Assignment
 
 ##### Task 1: simple_interest.py
@@ -20,7 +18,6 @@ Instructions:
 **Expected Output:**
 When executed, your script should print the simple interest calculated with the provided values. For principal = 1000, rate = 0.05, and time = 3, the output should be:
 
-
 ##### Task 2: hours_to_seconds.py
 
 For this task, write a Python script that converts a specific number of hours into seconds. This task reinforces the concept of arithmetic operations within a practical context.
@@ -33,7 +30,6 @@ Instructions:
 **Expected Output:**
 Given the value hours = 2, your script should output:
 
-
 ##### Task 3: future_age_calculator.py
 
 Create a Python script that asks the user for their current age and then calculates how old they will be in a specific future year. This task introduces handling user input and reinforces arithmetic operations.
@@ -44,7 +40,6 @@ Instructions:
 •	Calculate how old the user will be in the year 2050. To keep calculations simple, assume the current year is 2023. Therefore, you need to add 27 years to the user’s current age.
 •	Print the user’s age in 2050 in the format: In 2050, you will be [age] years old.
 
-
 **Expected Script Flow:**
 
 1. The script prompts the user for their current age.
@@ -52,7 +47,6 @@ Instructions:
 3. The script calculates and prints how old the user will be in 2050.
    Example Interaction:
    If the user inputs 30 when prompted for their current age, the output should be:
-
 
 ##### Task 4: finance_calculator.py
 
@@ -70,3 +64,16 @@ Instructions:
 4. **Output Results:**
    o	Display the user’s monthly savings.
    o	Display the projected annual savings after including interest.
+
+
+##### Submission
+
+Please follow these steps:
+
+**
+    1.**	****Create a GitHub repository** named  **ANST_Python_Class** .
+	2.**	****Create a folder** inside the repository called  **python_introduction** .
+	3.**	****Add each solved program task** as a separate file inside the folder.
+	4.**	****Push your changes** to the repository.
+	5.**	****Submit your GitHub link** using the form below:
+[https://forms.gle/wHAp92cs6caeFGLV7](https://forms.gle/wHAp92cs6caeFGLV7)
